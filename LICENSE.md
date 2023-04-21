@@ -1,4 +1,4 @@
-# Licence
+# License
 Begin license text.
 
 Copyright <YEAR> <COPYRIGHT HOLDER>
